@@ -1,0 +1,2 @@
+CMakeFiles/applitho_dashboard.dir/applitho_dashboard_autogen/mocs_compilation.cpp.obj: \
+ C:\QtProjects\litho_dashboard\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\applitho_dashboard_autogen\mocs_compilation.cpp

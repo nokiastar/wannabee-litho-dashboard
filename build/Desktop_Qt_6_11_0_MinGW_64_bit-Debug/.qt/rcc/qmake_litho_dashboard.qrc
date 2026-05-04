@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/litho_dashboard">
+    <file alias="qmldir">C:/QtProjects/litho_dashboard/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/litho_dashboard/qmldir</file>
+  </qresource>
+</RCC>
+
