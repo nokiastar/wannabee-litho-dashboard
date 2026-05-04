@@ -1,0 +1,13 @@
+build/
+*.exe
+*.dll
+*.obj
+*.o
+*.log
+*.user
+*.pro.user
+CMakeFiles/
+CMakeCache.txt
+__pycache__/
+
+💕
