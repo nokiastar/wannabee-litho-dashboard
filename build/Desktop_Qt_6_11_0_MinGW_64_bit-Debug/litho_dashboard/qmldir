@@ -1,6 +1,0 @@
-module litho_dashboard
-typeinfo applitho_dashboard.qmltypes
-prefer :/qt/qml/litho_dashboard/
-Main 254.0 Main.qml
-depends QtQuick
-

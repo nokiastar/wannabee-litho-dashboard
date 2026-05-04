@@ -1,3 +1,0 @@
-set(__QT_DEPLOY_TARGET_applitho_dashboard_FILE C:/QtProjects/litho_dashboard/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/applitho_dashboard.exe)
-set(__QT_DEPLOY_TARGET_applitho_dashboard_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_applitho_dashboard_RUNTIME_DLLS C:/Qt/6.11.0/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)

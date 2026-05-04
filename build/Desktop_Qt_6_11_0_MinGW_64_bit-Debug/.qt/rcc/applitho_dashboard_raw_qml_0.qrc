@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/litho_dashboard/">
-    <file alias="Main.qml">C:/QtProjects/litho_dashboard/Main.qml</file>
-  </qresource>
-</RCC>
-
